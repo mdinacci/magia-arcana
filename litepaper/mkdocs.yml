@@ -1,0 +1,6 @@
+site_name: The Ubiquitous Octocat Game
+theme:
+  name: material
+nav: 
+  - Home: index.md
+  - About: about.md
