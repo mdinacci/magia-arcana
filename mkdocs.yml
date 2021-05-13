@@ -1,7 +1,7 @@
 site_name: The Ubiquitous Octocat Game
-use_directory_urls: false
-theme:
-  name: material
+#use_directory_urls: false
+#theme:
+  #  name: material
 nav: 
   - Home: index.md
   - About: about.md
