@@ -16,3 +16,13 @@ The octotrain game is a video game where you navigate the blockchain. It's amazi
 * `A` - Shoot 
 * `B` - Navigate
 
+## Magia Arcana (test video)
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/nqDISnVMYw"
+frameborder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
+
+Lorem Ipsus Dolor
+
