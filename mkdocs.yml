@@ -1,4 +1,5 @@
 site_name: The Ubiquitous Octocat Game
+use_directory_urls: false
 theme:
   name: material
 nav: 
