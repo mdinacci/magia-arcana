@@ -6,17 +6,15 @@ Last modified: 12th May 2021
 
 The octotrain game is a video game where you navigate the blockchain. It's amazing !!
 
-![Screenshot](img/octotrain.jpg)
-*Above: The Octotrain*
+![Screenshot](img/OnePager.png)
+*Above: Magia Arcana OnePager*
 
 
-## Commands
+## Gameplay
 
-* `X` - Jump
-* `A` - Shoot 
-* `B` - Navigate
+Magia Arcana mixes elements from roguelike, deckbuilding and action RPG games.
 
-## Magia Arcana (test video)
+## Combat
 
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/EShUeudtaFg"
