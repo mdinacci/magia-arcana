@@ -16,11 +16,7 @@ Magia Arcana mixes elements from roguelike, deckbuilding and action RPG games.
 
 ## Combat
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/EShUeudtaFg"
-frameborder="0"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>
+![Screenshot](img/OnePager.png)
 
 Lorem Ipsus Dolor
 
