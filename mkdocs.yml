@@ -1,6 +1,7 @@
 site_name: Magia Arcana
 theme:
   name: material
+  logo: img/logo.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
