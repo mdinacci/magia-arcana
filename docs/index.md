@@ -12,11 +12,11 @@ The octotrain game is a video game where you navigate the blockchain. It's amazi
 *Above: Magia Arcana OnePager*
 
 
-## Gameplay
+ Gameplay
 
 Magia Arcana mixes elements from roguelike, deckbuilding and action RPG games.
 
-## Combat
+ Combat
 
 ![Screenshot](img/Testelephant2.gif)
 
