@@ -1,10 +1,10 @@
 [TOC]
 
-# Litepaper
+## Litepaper
 
 Last modified: 12th May 2021
 
-## Abstract
+### Abstract
 
 The octotrain game is a video game where you navigate the blockchain. It's amazing !!
 
