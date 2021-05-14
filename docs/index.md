@@ -1,5 +1,3 @@
-[TOC]
-
 # Litepaper
 
 Last modified: 12th May 2021
